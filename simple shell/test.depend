@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1619573257 source:/home/abougabal/OS labs/test/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<fcntl.h>
+	<signal.h>
+	<sys/wait.h>
+	<sys/resource.h>
+
+1619744777 source:/home/abougabal/OS labs/simple shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<fcntl.h>
+	<signal.h>
+	<sys/wait.h>
+	<sys/resource.h>
+	<unistd.h>
+	<sys/syscall.h>
+	<errno.h>
+
